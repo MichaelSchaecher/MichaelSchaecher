@@ -1,4 +1,4 @@
-### Some fume facts about me.
+### Some fun facts about me.
 
 I work for a plastic nold injection company it is were I make the money and I part-time as a developer in the making. 
 
