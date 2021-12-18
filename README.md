@@ -1,4 +1,6 @@
-### Hi there 👋
+### Some fume facts about me.
+
+I work for a plastic nold injection company it is were I make the money and I part-time as a developer in the making. 
 
 <!--
 **mschaecher78/mschaecher78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
