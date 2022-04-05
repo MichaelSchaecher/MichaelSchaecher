@@ -9,7 +9,7 @@ Visit my Github based **[website](https://michaelschaecher.github.io/)**.
 - [Website](https://MichaelSchaecher.github.io): A place for how-to and blogging about tech stuff.
 - [linux-kernel](https://github.com/MichaelSchaecher/linux-kernel): Comes with _wsl2_ support for x86_64 hardware.
 - [Raspberry Snapshot Image](https://github.com/MichaelSchaecher/rsi): A system backup utility for the Raspberry Pi.
-- [Pihole Update Manager App](https://github.com/MichaelSchaecher/puma): Simple bash script using _SystemD_ to help keep **Pihole** up-to-date.
+- [Pihole Manager](https://github.com/MichaelSchaecher/puma): Simple bash script using _SystemD_ to help keep **Pihole** up-to-date.
 - [mokey](https://github.com/MichaelSchaecher/mokey): Something that I work on to enable signing kernel image and modules, grub efi binary. The utility can register the key into _shim_.
 - [md-2-pdf](https://github.com/MichaelSchaecher/md-2-pdf): Still a work in progress, but the idea is a simple way to convert markdown into a pdf using _pandoc_.
 
@@ -20,10 +20,11 @@ About a year ago I learned about the **Rust** programming language; I discovered
 ## Current Hardware
 
 Dell Inspiron 15 5000 Notebook
-- Ryens 5 4500U Processor
-- 64GB of DDR4 3200MHz of RAM.
-- 1TB NVMe System SSD
-- 500GB NVMe WSL SSDD
+Hardware | Type
+| --- | --- |
+Processor | Ryens 5 4500U Processor
+RAM | 64GB DDR4 3200MHz
+SSD | 1TB NVMe System SSD + 500GB NVMe WSL SSD
 
 <!--
 **mschaecher78/mschaecher78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
