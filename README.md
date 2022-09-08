@@ -14,7 +14,7 @@ Visit my Github based **[website](https://michaelschaecher.github.io/)**.
 
 ## What I'm Looking Forward To
 
-About a year ago I learned about the **Rust** programming language; I discovered something that I can sink my teeth into.
+About a year ago I learned about the **<mark>Rust</mark>** programming language; I discovered something that I can sink my teeth into.
 
 ## Current Hardware
 
