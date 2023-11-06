@@ -1,3 +1,5 @@
 # Do not track tarballs.
 *.tar.gz
 *tar.xz
+
+.markdownlint.*
