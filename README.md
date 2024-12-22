@@ -12,7 +12,7 @@
 <!-- Who am I and what am I into. -->
 
 <div align="center">
-    <h1 style="font-size: 4em; color: red">Hi 👋, I'm A Developer</h1>
+    <h1 style="font-size: 4em; color: red">Hi 👋, I'm a newbie at development</h1>
     <h3>A passionate developer from somewhere on Earth</h3>
 </div>
 
@@ -30,8 +30,7 @@ I'm learning more about btrfs filesystem and the benefits of a COW (Copy On Writ
 
 The main project I'm working on is my static website hosted on Cloudflare Pages. I'm using the Hugo static site generator to generate the HTML and CSS for the site and my own custom theme.
 
-- [Website](https://blackstewie.com) - My personal website about tech and other things.
+- [Website](https://howtonebie.com) - My personal website about tech and other things.
 - [Theme](https://github.com/MichaelSchaecher/simple-dark) - A simple dark theme for Hugo.
 - [WSL](https://github.com/MichaelSchaecher/wsl-kernel-patch) - A patch to compile the Linux kernel for WSL2.
-- [skel](https://github.com/MichaelSchaecher/skel) - My personal skeleton files.
-- [init](https://github.com/MichaelSchaecher/systemd-scripts) - My personal systemd scripts.
+- [BTRFS Snapshots Manager](https://github.com/MichaelSchaecher/btrfs-snapshots-manager) - A simple script to manage btrfs snapshots.
